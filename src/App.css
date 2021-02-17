@@ -8,3 +8,6 @@ nav a{
 li{
   margin: 8px;
 }
+li .active{
+  color:red;
+}
